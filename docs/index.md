@@ -2,8 +2,8 @@
 layout: cv
 title: Brigham Young's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Kaden Mills 
+
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
@@ -16,74 +16,53 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`Expected 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- Computer Science major hoping to go into Cyber Security after college
+- Have maintained at least a 3.9 GPA throughout my entire time at college
 
-
-## Related Experience
-
-### Internships
-
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
 
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`2021`
+__Packager__ - Wildwood Grilling, Sandpoint, ID
 
+`2020`
+__Lot Associate__ - Home Depot, Ponderay, ID
+ - I helped people load items into cars
+ - The job position was sometimes referred to as “loader”
+ - The cashiers called me and told me when someone needed help loading
+ - I sometimes dealt with special orders
+ - I would get their order and sometimes help load it into their cars
+ - I helped out with curbside pickup
+ - I got the order and loaded it into their cars
+ - I pushed carts
+ - When I was not loading, I got carts and  pushed them inside the building.
 
-`2023-2025`
-__Service Missionary__, South Africa
-
+`2019`
+__Park Operations Host - Stadium Staff__ - Seaworld San Diego, San Diego, CA
+ - I helped manage the stadiums
+ - Opened and closed the gates when needed
+ - Helped manage reserved seating
+ - Made sure no one put their hand in the water
+ - Cleaned up the stadium
+ - I helped out with the parades
+ - Put up rope to create pathways during the parade
+ - Made sure no one ran out into the parade
+ - Cleaned up afterwards
+ - I helped with the special events
+ - Opened and closed the gates to the special events
+ - Let in people with a special pass early
+ - Cleaned up after the event
+ - I Distributed Candy
+ - For the Halloween event, I handed out candy to people
+ - I opened and closed the candy distribution station when needed
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: March 2022 -->
 
 
